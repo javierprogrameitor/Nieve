@@ -10,5 +10,4 @@ function createSnow() {
         createSnow();
     });
 }
-
 setInterval(createSnow, 500);
